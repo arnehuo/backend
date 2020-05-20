@@ -1,6 +1,6 @@
 {
-	"name": "ibrand/backend",
-	"description": "ibrand backend base laravel-admin",
+	"name": "arnehuo/backend",
+	"description": "base ibrand backend",
 	"type": "library",
 	"keywords": [
 		"laravel",
